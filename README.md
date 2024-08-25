@@ -20,7 +20,9 @@ cd excelbot
 pip install -r requirements.txt
 ```
 
-4. Run the application:
+4. Get your `API KEY` from [groq.com](https://console.groq.com/keys)
+
+5. Run the application:
 ```bash
 streamlit run app.py
 ```
