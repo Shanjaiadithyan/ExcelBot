@@ -6,17 +6,21 @@ An AI tool that generates precise Excel formulas based on your queries, quickly 
 ## Deploy
 
 1. Clone the repository:
-
-```
+```bash
 git clone https://github.com/your-username/excelbot.git
 ```
 
-2. Install the required dependencies:
+2. CD into directory:
+```bash
+cd excelbot
 ```
+
+3. Install the required dependencies:
+```bash
 pip install -r requirements.txt
 ```
 
-3. Run the application:
-```
+4. Run the application:
+```bash
 streamlit run app.py
 ```
